@@ -1,0 +1,3 @@
+[submodule "pingus"]
+	path = pingus
+	url = https://github.com/zhuher/pingus
